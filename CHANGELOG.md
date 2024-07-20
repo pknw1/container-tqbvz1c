@@ -1,3 +1,15 @@
+# v0.0.3 (Sat Jul 20 2024)
+
+#### 🐛 Bug Fix
+
+- Update Dockerfile [#2](https://github.com/pknw1/container-tqbvz1c/pull/2) ([@pknw1](https://github.com/pknw1))
+
+#### Authors: 1
+
+- PK ([@pknw1](https://github.com/pknw1))
+
+---
+
 # v0.0.2 (Sat Jul 20 2024)
 
 #### 🐛 Bug Fix
