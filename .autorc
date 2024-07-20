@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "pknw1",
+  "repo": "container-tqbvz1c",
+  "name": "pknw1",
+  "email": "pknw1@pknw1.co.uk",
+}
